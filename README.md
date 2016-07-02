@@ -1,2 +1,2 @@
 # python_practice
-# Practice exercises from edX course
+Practice exercises from edX course
